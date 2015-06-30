@@ -1,0 +1,68 @@
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\user\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Shayne\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Shayne\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Shayne\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Shayne\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Shayne\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Shayne\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Shayne\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Shayne\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Shayne\Desktop\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Shayne\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Shayne\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Shayne\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Shayne\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\USER\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\USER\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\USER\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\USER\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\USER\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\USER\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\USER\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\USER\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\HCLIN\Desktop\視窗專題\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\HCLIN\Desktop\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\HCLIN\Desktop\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\HCLIN\Desktop\視窗專題\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\HCLIN\Desktop\視窗專題\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\HCLIN\Desktop\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HCLIN\Desktop\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\HCLIN\Desktop\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\HCLIN\Desktop\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\HCLIN\Desktop\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\HCLIN\Desktop\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\HCLIN\Desktop\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\HCLIN\Desktop\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\HCLIN\Desktop\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.AboutBox1.resources
+C:\Users\HCLIN\Desktop\視窗作業\視窗專題\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\HCLIN\Desktop\視窗作業\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\HCLIN\Desktop\視窗作業\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\HCLIN\Desktop\視窗作業\視窗專題\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\HCLIN\Desktop\視窗作業\視窗專題\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\HCLIN\Desktop\視窗作業\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\HCLIN\Desktop\視窗作業\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\HCLIN\Desktop\視窗作業\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\HCLIN\Desktop\視窗作業\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\HCLIN\Desktop\視窗作業\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\HCLIN\Desktop\視窗作業\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\HCLIN\Desktop\視窗作業\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.AboutBox1.resources
+C:\Users\HCLIN\Desktop\視窗作業\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\HCLIN\Desktop\視窗作業\視窗專題\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Shayne\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.AboutBox1.resources
